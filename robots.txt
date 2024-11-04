@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atideuve.github.io/QqY/sitemap_index.txt
+Sitemap: https://atideuve.github.io/kOj/sitemap_index.txt
+Sitemap: https://atideuve.github.io/tZR/sitemap_index.txt
+Sitemap: https://atideuve.github.io/yQL/sitemap_index.txt
